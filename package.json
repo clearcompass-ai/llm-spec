@@ -1,0 +1,19 @@
+{
+  "name": "llm-kit",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@ai-sdk/openai": "^2.0.0-beta.15",
+    "@ai-sdk/react": "^2.0.0-beta.33",
+    "ai": "^5.0.0-beta.33",
+    "dotenv": "^17.2.1",
+    "tsx": "^4.20.3"
+  }
+}
